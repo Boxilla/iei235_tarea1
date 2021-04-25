@@ -1,3 +1,5 @@
+Creado por Alejandro Quintana Saravia - alejandro.quintana@sansano.usm.cl
+
 # [IEI235] Tarea1
 
 Tarea numero 1 de la asignatura IEI235-Pruebas de Software, donde se debe crear un programa que comprima una cadena de caracteres.
