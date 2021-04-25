@@ -27,12 +27,12 @@ El programa solo recibe cadenas de largo mayor a 0, por lo que si no se ingresa 
 Para finalizar el programa se debe escribir "x", como lo indica por pantalla el mismo programa.
 
 ```bash
-'Ingrese cadena: 🐫🐿🐿🐿🐿🐿🐽🐽🐽🐽🐽🐽'
-'🐫1🐿5🐽6'
-'ENTER para repetir, o escriba X para salir.'
-'Ingrese cadena: 🐫🐿🐿🐿🐿🐿🐽🐽🐽🐽🐽🐽🐫🐿🐿🐿🐿🐿🐽🐽🐽🐽🐽🐽'
-'🐫1🐿5🐽6🐫1🐿5🐽6'
-'ENTER para repetir, o escriba X para salir.x'
+Ingrese cadena: cadeeeeenaprueeeeeba
+cadeeeeenaprueeeeeba
+ENTER para repetir, o escriba X para salir.
+Ingrese cadena: cadena2prueba
+cadena2prueba
+ENTER para repetir, o escriba X para salir.X
 
 ```
 
