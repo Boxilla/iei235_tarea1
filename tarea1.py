@@ -29,7 +29,7 @@ def compressString(string1 = ''):
     compressedString =  compressedString + str(charCounter)
 
     output = ''
-    if len(compressedString) > len(string1):
+    if len(compressedString) >= len(string1):
       print('output: ', string1)
       output = string1
     else:
