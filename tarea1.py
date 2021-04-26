@@ -52,7 +52,7 @@ def compressString(string1 = ''):
 
 def logMaker(date, string1, compString, output,  err = 0):
   try:
-    file = open('log_tarea1_iei235.txt', 'a')
+    file = open('log_tarea1_iei235.txt', 'a', encoding="utf-8")
   except OSError() as err:
     log = "WARNING, " + str(err)
     print(log)
