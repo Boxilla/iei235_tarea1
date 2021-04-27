@@ -6,11 +6,11 @@ Tarea numero 1 de la asignatura IEI235-Pruebas de Software, donde se debe crear 
 
 ## Descripcion
 
-El proposito de este programa es  realizar una compresión básica de cadenas utilizando el recuento de caracteres repetidos. Por ejemplo, la cadena aabcccccaaa se convertiría en a2b1c5a3. Si la cadena "comprimida" no fuera más pequeña que la cadena original, su método debería devolver la cadena original, ademas crea un archivo llamado "log_tarea1_iei235.txt" donde se agrega una linea con la fecha de ejecución, los strings ingresados y el resultado de la comprension cada vez que el programa es ejecutado con exito.
+El proposito de este programa es  realizar una compresion básica de cadenas utilizando el recuento de caracteres repetidos. Por ejemplo, la cadena aabcccccaaa se convertiria en a2b1c5a3. Si la cadena "comprimida" no fuera mas pequeña que la cadena original, su metodo debería devolver la cadena original, ademas crea un archivo llamado "log_tarea1_iei235.txt" donde se agrega una linea con la fecha de ejecucion, los strings ingresados y el resultado de la comprension cada vez que el programa es ejecutado con exito.
 
 ## Ejecucion
 
-Para ejecutar el programa y que cumplá totalmente su funcionaldiad se debe tener instalada la versión 3 de python.
+Para ejecutar el programa y que cumpla totalmente su funcionaldiad se debe tener instalada la versión 3 de python, ocupando el IDLE de python para windows, un jupyter notebook en google colab o Z Shell en Ubuntu.
 Como el programa genera un documento se deben tener permisos suficientes para esto al ejecutar el programa.
 
 El codigo fue escrito en python version 3.8.7
